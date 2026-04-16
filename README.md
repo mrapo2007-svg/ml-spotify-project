@@ -116,8 +116,7 @@ your-repo-name/
 
 ##  Example Visualization
 
-Include at least one figure from your project:
 
-![Streams Distribution](reports/Distribution_of_Streams.png)
+![Streams Distribution](reports/Top_Artists.png)
 
 ---
